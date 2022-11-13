@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/computocell" target="blank"><img src="https://img.shields.io/twitter/follow/computocell?logo=twitter&style=for-the-badge" alt="computocell" /></a> </p>
 
-- 🔭 Estou trabalhando atualmente [Site Quadrilha Nova Geração](https://quadrilhanovageracao.com.br)
+- 🔭 Meu projeto de hobby da quadrilha que amo [Site Quadrilha Nova Geração](https://quadrilhanovageracao.com.br)
 
 - 🌱 Estou aprendendo **Nestjs, Angular, NodeJs, Go**
 
