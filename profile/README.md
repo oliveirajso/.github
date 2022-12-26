@@ -5,7 +5,7 @@
 
 - 🔭 Meu projeto de hobby da quadrilha que amo [Site Quadrilha Nova Geração](https://quadrilhanovageracao.com.br)
 
-- 🌱 Estou aprendendo **Nestjs, Angular, NodeJs, Go**
+- 🌱 Estou aprendendo **Nestjs, Angular, NodeJs**
 
 - 📝 Meu site pessoal [https://computocell.com.br](https://computocell.com.br)
 
